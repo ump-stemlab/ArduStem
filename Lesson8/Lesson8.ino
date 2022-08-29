@@ -97,7 +97,7 @@ void loop() {
    else if((state5>ir5avg) && (state3>ir3avg)){
     forward(255,255);
     delay(10);
-    Right(128,128);
+    left(128,128);
     delay(200);
   } 
   

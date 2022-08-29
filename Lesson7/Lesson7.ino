@@ -17,6 +17,7 @@ void setup() {
     backward(255,255);
     delay(1000);
   }
+  forward(0,0);
 }
 
 void loop() {
